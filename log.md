@@ -1,30 +1,25 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: January 2, 2017, Monday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Read the blog post, did some reading on Android Studio, came up with some project ideas.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: Very nervous to commit to 100 days of code.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+1. [Blog post](https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b#.kqfg6syur)
+
+2. [Android Studio page](https://developer.android.com/studio/index.html)
+
+### Day 1: January 3, 2017, Tuesday
+
+**Today's Progress**: Installed Android Studio, imported my Android app "KitchenMaster" project, troubleshot import problems, learned basics of adding search feature to Android apps.
+
+**Thoughts**: Why is it that instead of CODING you spend most of the time COPING with software installs?! Moving from Eclipse to Android Studio is totally killing me....
+
+**Link(s) to work**
+
+1. [Initial commit of KitchenMaster App](https://github.com/ConnieZ/KitchenMaster)
+
+2. [Android Searching Functionality Tutorial](https://developer.android.com/training/search/index.html)
