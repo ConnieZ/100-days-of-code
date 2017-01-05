@@ -23,3 +23,15 @@
 1. [Initial commit of KitchenMaster App](https://github.com/ConnieZ/KitchenMaster)
 
 2. [Android Searching Functionality Tutorial](https://developer.android.com/training/search/index.html)
+
+### Day 2: January 4, 2017, Wednesday
+
+**Today's Progress**: Had to reorganize the app code for Android Studio and re-write some pieces. Got it to work on an emulator, but it's so outdated the action bar (menu) stopped working (even though on my 4.4 Android phone the app works fine, must be the support libraries...). Learned about ActionBar and ToolBar, which one to use and how.  
+
+**Thoughts**: I wish Android libraries were more backwards compatible out of the box without messing with support libraries.
+
+**Link(s) to work**
+
+1. [Updated version of the KitchenMaster App](https://github.com/ConnieZ/KitchenMaster)
+
+2. [Android ActionBar and ToolBar Tutorial](https://developer.android.com/training/appbar/setting-up.html)
