@@ -35,3 +35,15 @@
 1. [Updated version of the KitchenMaster App](https://github.com/ConnieZ/KitchenMaster)
 
 2. [Android ActionBar and ToolBar Tutorial](https://developer.android.com/training/appbar/setting-up.html)
+
+### Day 3: January 5, 2017, Thursday
+
+**Today's Progress**: Had to pause working on my KitchenMaster app in favor of learning how to convert a ListActivity into an AppCompatActivity. I managed that by using a test project, which I called "White Wine List". Had to read a ton and troubleshoot a kilo.
+
+**Thoughts**: I learned a lot about how Views work in Android apps, troubleshooting is the best teacher.
+
+**Link(s) to work**
+
+1. [Original source code](https://www.mkyong.com/android/android-listview-example/)
+
+2. [My White Wine List App based on that example](https://github.com/ConnieZ/ListViewApp)
