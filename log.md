@@ -57,3 +57,13 @@
 **Link(s) to work**
 
 1. [See three last commits to White Wine List App](https://github.com/ConnieZ/ListViewApp)
+
+### Day 5: January 7, 2017, Saturday
+
+**Today's Progress**: On my beautiful "White Wine List" App, on my ToolBar there's now a functional Search button and a "Add New" button, which I'll have to implement. I made search work, but still haven't been able to make the results of the search show up. I also implemented a database backend based on a text file that gets loaded into a virtual SQL table. I learned about Content Providers a bit, which I didn't intend to, but had to in order to implement db and search...
+
+**Thoughts**: It's getting a little frustrating: every time I sit down for an hour of code, I end up spending way more than that just to make a real accomplishment for the day, but Java is not cooperating.
+
+**Link(s) to work**
+
+1. [See three last commits to White Wine List App](https://github.com/ConnieZ/ListViewApp)
