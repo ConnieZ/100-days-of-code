@@ -47,3 +47,13 @@
 1. [Original source code](https://www.mkyong.com/android/android-listview-example/)
 
 2. [My White Wine List App based on that example](https://github.com/ConnieZ/ListViewApp)
+
+### Day 4: January 6, 2017, Friday
+
+**Today's Progress**: On my beautiful "White Wine List" App, I added a ToolBar and a SearchView, to enable searching for wine types. Spent more than an hour due to research and troubleshooting.
+
+**Thoughts**: Android guides don't make it easy to learn, it appears. StackOverflow rules in that respect.
+
+**Link(s) to work**
+
+1. [See three last commits to White Wine List App](https://github.com/ConnieZ/ListViewApp)
