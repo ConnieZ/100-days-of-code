@@ -67,3 +67,14 @@
 **Link(s) to work**
 
 1. [See three last commits to White Wine List App](https://github.com/ConnieZ/ListViewApp)
+
+### Day 6: January 8, 2017, Sunday
+
+**Today's Progress**: On my beautiful "White Wine List" App, search widget now works and returns results, athough they lack style, so look ugly. Piled through tutorials on how to implement returning results from search
+
+**Thoughts**: I wish at least one of the tutorials I found was complete and bug-free.
+
+**Link(s) to work**
+
+1. [See last commit to White Wine List App](https://github.com/ConnieZ/ListViewApp)
+2. [Tutorial most helpful for search and returning results](https://inducesmile.com/android/android-search-dialog-implementation-example/)
