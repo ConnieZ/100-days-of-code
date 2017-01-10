@@ -78,3 +78,15 @@
 
 1. [See last commit to White Wine List App](https://github.com/ConnieZ/ListViewApp)
 2. [Tutorial most helpful for search and returning results](https://inducesmile.com/android/android-search-dialog-implementation-example/)
+
+### Day 7: January 9, 2017, Monday
+
+**Today's Progress**: On my beautiful "White Wine List" App, played around with style and layouts. Watched coursera videos about Intents for Android.
+
+**Thoughts**: Today was a little bit more relaxing.
+
+**Link(s) to work**
+
+1. [See last commit to White Wine List App](https://github.com/ConnieZ/ListViewApp)
+2. [Coursera class](https://www.coursera.org/learn/androidapps)
+
