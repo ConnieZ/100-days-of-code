@@ -90,3 +90,14 @@
 1. [See last commit to White Wine List App](https://github.com/ConnieZ/ListViewApp)
 2. [Coursera class](https://www.coursera.org/learn/androidapps)
 
+### Day 8: January 10, 2017, Tuesday
+
+**Today's Progress**: On my beautiful "White Wine List" App, I figured out how to display multiple columns with a custom adapter class. Implemented that and made some slight style changes to improve viewing.
+
+**Thoughts**: Feeling pretty confident with displaying results in views.
+
+**Link(s) to work**
+
+1. [See last commit to White Wine List App](https://github.com/ConnieZ/ListViewApp)
+2. [Best help in custom adapter development](http://stackoverflow.com/questions/11678909/use-array-adapter-with-more-views-in-row-in-listview)
+
