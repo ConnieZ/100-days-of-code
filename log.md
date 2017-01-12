@@ -101,3 +101,14 @@
 1. [See last commit to White Wine List App](https://github.com/ConnieZ/ListViewApp)
 2. [Best help in custom adapter development](http://stackoverflow.com/questions/11678909/use-array-adapter-with-more-views-in-row-in-listview)
 
+
+### Day 9: January 11, 2017, Wednesday
+
+**Today's Progress**: Broke my beautiful "White Wine List" App a bit while adding a wider dataset. Will need to fix tomorrow.
+
+**Thoughts**: Why db's are always a headache?
+
+**Link(s) to work**
+
+1. [See last commit to White Wine List App](https://github.com/ConnieZ/ListViewApp)
+
