@@ -112,3 +112,12 @@
 
 1. [See last commit to White Wine List App](https://github.com/ConnieZ/ListViewApp)
 
+### Day 10: January 12, 2017, Thursday
+
+**Today's Progress**: Tried fixing today. Made the "White Wine List" App a bit more robust, but had to revert back the wider data, cause it just won't work. Will shift gears tomorrow and focus on the KitchenMaster app instead.
+
+**Thoughts**: Why db's are always a headache?
+
+**Link(s) to work**
+
+1. [See last commit to White Wine List App](https://github.com/ConnieZ/ListViewApp)
