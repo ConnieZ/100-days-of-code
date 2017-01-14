@@ -121,3 +121,13 @@
 **Link(s) to work**
 
 1. [See last commit to White Wine List App](https://github.com/ConnieZ/ListViewApp)
+
+### Day 11: January 13, 2017, Friday
+
+**Today's Progress**: Made some real progress with my KitcheMaster app, it has a couple new classes responsible for item management and display of lists. Added some initial data to the database to display on start. Still more work to do.
+
+**Thoughts**: Feeling pretty satisfied with my progress today.
+
+**Link(s) to work**
+
+1. [See last commit to KitcheMaster App](https://github.com/ConnieZ/KitchenMaster/commit/a63ec005f6593dde5227e2d6890eb6ac056ee2c2)
