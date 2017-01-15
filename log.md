@@ -131,3 +131,13 @@
 **Link(s) to work**
 
 1. [See last commit to KitcheMaster App](https://github.com/ConnieZ/KitchenMaster/commit/a63ec005f6593dde5227e2d6890eb6ac056ee2c2)
+
+### Day 12: January 14, 2017, Saturday
+
+**Today's Progress**: On the KitchenMaster app made display of quanitites work, added the ability to add new items. Still having trouble with clicking on items
+
+**Thoughts**: Feeling pretty satisfied with my progress today.
+
+**Link(s) to work**
+
+1. [See last commit to KitcheMaster App](https://github.com/ConnieZ/KitchenMaster/commit/aae3ce03a114d23a7fc88216367656fcc98c6ac8)
