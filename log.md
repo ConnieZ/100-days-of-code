@@ -141,3 +141,13 @@
 **Link(s) to work**
 
 1. [See last commit to KitcheMaster App](https://github.com/ConnieZ/KitchenMaster/commit/aae3ce03a114d23a7fc88216367656fcc98c6ac8)
+
+### Day 13: January 15, 2017, Sunday
+
+**Today's Progress**: On the KitchenMaster app, I fixed the onClickListener capability, and added the search icon. Will continue working on search tomorrow.
+
+**Thoughts**: Wow, so much headache over just the wrong data type...
+
+**Link(s) to work**
+
+1. [See last commit to KitcheMaster App](https://github.com/ConnieZ/KitchenMaster/commit/000fb8f1ea5eb71381ba26e48a6d3038fe764e27)
