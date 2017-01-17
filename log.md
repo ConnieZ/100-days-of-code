@@ -151,3 +151,13 @@
 **Link(s) to work**
 
 1. [See last commit to KitcheMaster App](https://github.com/ConnieZ/KitchenMaster/commit/000fb8f1ea5eb71381ba26e48a6d3038fe764e27)
+
+### Day 14: January 16, 2017, Monday
+
+**Today's Progress**: On the KitchenMaster app, I added search widget, searchableactivity and searchable xml. But clicking enter on the entered data still doesn't work.
+
+**Thoughts**: Why is search so complicated, Android?
+
+**Link(s) to work**
+
+1. [See last commit to KitcheMaster App](https://github.com/ConnieZ/KitchenMaster/commit/8e5addf6100b28e81d0f438cef263d3f28f9b03c)
