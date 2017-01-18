@@ -161,3 +161,13 @@
 **Link(s) to work**
 
 1. [See last commit to KitcheMaster App](https://github.com/ConnieZ/KitchenMaster/commit/8e5addf6100b28e81d0f438cef263d3f28f9b03c)
+
+### Day 15: January 17, 2017, Tuesday
+
+**Today's Progress**: On the KitchenMaster app, I tried to fix search widget, but it just wouldn't budge, I'm doing everything right from the tutorials and stackoverflow, but it just won't work.
+
+**Thoughts**: Why is search so complicated, Android?
+
+**Link(s) to work**
+
+1. [See last commit to KitcheMaster App](https://github.com/ConnieZ/KitchenMaster/commit/273e624ddfc3e0237ffb3ef81f80942ab0ecc784)
