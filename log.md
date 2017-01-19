@@ -171,3 +171,13 @@
 **Link(s) to work**
 
 1. [See last commit to KitcheMaster App](https://github.com/ConnieZ/KitchenMaster/commit/273e624ddfc3e0237ffb3ef81f80942ab0ecc784)
+
+### Day 16: January 18, 2017, Wednesday
+
+**Today's Progress**: On the KitchenMaster app, I enabled the Shopping List functionality and context menu. Will have to still fix search.
+
+**Thoughts**: Why is search so complicated, Android?
+
+**Link(s) to work**
+
+1. [See last commit to KitcheMaster App](https://github.com/ConnieZ/KitchenMaster/commit/7d472e5e9375eff548eeabfbda0cf7a504c58074)
