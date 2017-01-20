@@ -181,3 +181,15 @@
 **Link(s) to work**
 
 1. [See last commit to KitcheMaster App](https://github.com/ConnieZ/KitchenMaster/commit/7d472e5e9375eff548eeabfbda0cf7a504c58074)
+
+
+### Day 17: January 19, 2017, Thursday
+
+**Today's Progress**: On the KitchenMaster app, I finally fixed search widget, it now responds to queries and displays results. I also made the "Add Item" activity more robust - empty entries won't be stored in the database.
+
+**Thoughts**: OMG, just not having the full path to searchable activity is what screwed me over earlier.
+
+**Link(s) to work**
+
+1. [See last commit to KitcheMaster App](https://github.com/ConnieZ/KitchenMaster/commit/858f5e85f8bb3acf895d392e584381b2952f62f3)
+2. [The most helpful source in getting search to work today](http://stackoverflow.com/questions/17311434/search-dialog-is-not-called-onsearchrequested)
