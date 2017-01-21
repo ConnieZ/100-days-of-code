@@ -193,3 +193,15 @@
 
 1. [See last commit to KitcheMaster App](https://github.com/ConnieZ/KitchenMaster/commit/858f5e85f8bb3acf895d392e584381b2952f62f3)
 2. [The most helpful source in getting search to work today](http://stackoverflow.com/questions/17311434/search-dialog-is-not-called-onsearchrequested)
+
+
+### Day 18: January 20, 2017, Friday
+
+** Today's Progress**: On the KitchenMaster app, I made search work in the main activity, returning results to the same page basically in the same format. I also fixed shopping list bug, where the results didn't get refreshed on returning back to main activity.
+
+**Thoughts**: Very excited to be almost done with this project and be able to move on.
+
+**Link(s) to work**
+
+1. [See last commit to KitcheMaster App](https://github.com/ConnieZ/KitchenMaster/commit/f694f43eac347e6a4cbff673dac2dd5a37f286c7)
+2. [The most helpful source in getting search to work today](http://stackoverflow.com/questions/24928906/android-how-to-return-to-same-activity-after-search-is-done-in-a-single-activity)
