@@ -205,3 +205,13 @@
 
 1. [See last commit to KitcheMaster App](https://github.com/ConnieZ/KitchenMaster/commit/f694f43eac347e6a4cbff673dac2dd5a37f286c7)
 2. [The most helpful source in getting search to work today](http://stackoverflow.com/questions/24928906/android-how-to-return-to-same-activity-after-search-is-done-in-a-single-activity)
+
+### Day 19: January 21, 2017, Saturday
+
+** Today's Progress**: For a chance I did an Android coursera class assignment focused on intents.
+
+**Thoughts**: Felt different to solve a problem, I didn't think of.
+
+**Link(s) to work**
+
+1. [Assignment Solutions to Coursera Android Class](https://github.com/ConnieZ/myAndroidAppDevSpecialization/tree/master/Android_App_Components/week2)
