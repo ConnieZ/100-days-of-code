@@ -208,10 +208,21 @@
 
 ### Day 19: January 21, 2017, Saturday
 
-** Today's Progress**: For a chance I did an Android coursera class assignment focused on intents.
+** Today's Progress**: For a change I did an Android coursera class assignment focused on intents.
 
 **Thoughts**: Felt different to solve a problem, I didn't think of.
 
 **Link(s) to work**
 
 1. [Assignment Solutions to Coursera Android Class](https://github.com/ConnieZ/myAndroidAppDevSpecialization/tree/master/Android_App_Components/week2)
+
+### Day 20: January 22, 2017, Sunday
+
+** Today's Progress**: Worked some more on the Android class assignment. Also in preparation for a machine learning project, I made the delay_predictor app more robust.
+
+**Thoughts**: Learning every day is cool!
+
+**Link(s) to work**
+
+1. [Commit to Assignment Solutions to Coursera Android Class](https://github.com/ConnieZ/myAndroidAppDevSpecialization/commit/3d2494df795a97254d8c1ad3d68b3982614164a0)
+2. [Delay_predictor app commit](https://github.com/ConnieZ/delay_predictor/commit/e624bde24e8d17d3f456aef53fe123c081901344)
