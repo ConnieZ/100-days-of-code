@@ -226,3 +226,13 @@
 
 1. [Commit to Assignment Solutions to Coursera Android Class](https://github.com/ConnieZ/myAndroidAppDevSpecialization/commit/3d2494df795a97254d8c1ad3d68b3982614164a0)
 2. [Delay_predictor app commit](https://github.com/ConnieZ/delay_predictor/commit/e624bde24e8d17d3f456aef53fe123c081901344)
+
+### Day 21: January 23, 2017, Monday
+
+** Today's Progress**: Worked on the delay_predictor app - added a decision tree algorithm, and made the sampling and filtering of datasets more robust. Will work on visualization next.
+
+**Thoughts**: Learning every day is cool!
+
+**Link(s) to work**
+
+1. [Delay_predictor app commit](https://github.com/ConnieZ/delay_predictor/commit/d1e3d65f8b8c70cd24d66e35058f9b45d6784e1a)
