@@ -247,3 +247,14 @@
 
 1. [Delay_predictor app commit](https://github.com/ConnieZ/delay_predictor/commit/4a1ef51db3bb6a5cba4493d2e3e0e389632b313b)
 2. [Tutorial on trees](http://blog.revolutionanalytics.com/2013/06/plotting-classification-and-regression-trees-with-plotrpart.html)
+
+### Day 23: January 25, 2017, Wednesday
+
+** Today's Progress**: Worked on the delay_predictor app - modified the UI to use ShinyDashboard package. Added decision tree analysis to the UI.
+
+**Thoughts**: Hmm, need to learn about criteria for decision tree choices.
+
+**Link(s) to work**
+
+1. [Delay_predictor app commit](https://github.com/ConnieZ/delay_predictor/commit/522b9783fdd9b77cb14ec6041ef812b7e90fd3b7)
+
