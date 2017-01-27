@@ -258,3 +258,13 @@
 
 1. [Delay_predictor app commit](https://github.com/ConnieZ/delay_predictor/commit/522b9783fdd9b77cb14ec6041ef812b7e90fd3b7)
 
+
+### Day 24: January 26, 2017, Thursday
+
+** Today's Progress**: Worked on the delay_predictor app - added a new Decision tree from Rweka package. Fixed some bugs. Fought a losing battle with SparkR on Jupyter.
+
+**Thoughts**: How do you transform data (not model) of SparkR dataframes?
+
+**Link(s) to work**
+
+1. [Delay_predictor app commit](https://github.com/ConnieZ/delay_predictor/commit/f65e2b5062de5afe87b2c1027cddd73e8f0a6ac4)
