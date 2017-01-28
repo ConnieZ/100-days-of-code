@@ -268,3 +268,13 @@
 **Link(s) to work**
 
 1. [Delay_predictor app commit](https://github.com/ConnieZ/delay_predictor/commit/f65e2b5062de5afe87b2c1027cddd73e8f0a6ac4)
+
+### Day 25: January 27, 2017, Friday
+
+** Today's Progress**: Worked on the delay_predictor app - added a CPART decision tree from rpart package. In light of discoveries, new chart shows mean departure delay based on Hour of departure.
+
+**Thoughts**: Wow, decision trees are all lining up, but different packages give different levels of complexity.
+
+**Link(s) to work**
+
+1. [Delay_predictor app commit](https://github.com/ConnieZ/delay_predictor/commit/4824aae767abeb978ff96ccbfbfdfc42f4ece1d9)
