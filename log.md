@@ -278,3 +278,14 @@
 **Link(s) to work**
 
 1. [Delay_predictor app commit](https://github.com/ConnieZ/delay_predictor/commit/4824aae767abeb978ff96ccbfbfdfc42f4ece1d9)
+
+
+### Day 26: January 28, 2017, Saturday
+
+** Today's Progress**: Stretched my brain with some algorithms in freeCodeCamp.
+
+**Thoughts**: Thought I would relax, but actually had some trouble with those algorithms, I guess I'm overthinking them.
+
+**Link(s) to work**
+
+1. [Public FreeCodeCamp profile and progress](https://www.freecodecamp.com/conniez)
