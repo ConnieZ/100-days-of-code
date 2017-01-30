@@ -289,3 +289,15 @@
 **Link(s) to work**
 
 1. [Public FreeCodeCamp profile and progress](https://www.freecodecamp.com/conniez)
+
+
+
+### Day 27: January 29, 2017, Sunday
+
+** Today's Progress**: Roman Numerals Converter is kicking my ass. I couldn't actually finish it today. Will continue tomorrow.
+
+**Thoughts**: Thought I would relax, but actually had some trouble with those algorithms, I guess I'm overthinking them.
+
+**Link(s) to work**
+
+1. [The challenge]: https://www.freecodecamp.com/challenges/roman-numeral-converter
