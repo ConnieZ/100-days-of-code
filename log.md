@@ -300,4 +300,15 @@
 
 **Link(s) to work**
 
-1. [The challenge]: https://www.freecodecamp.com/challenges/roman-numeral-converter
+1. [The challenge]: (https://www.freecodecamp.com/challenges/roman-numeral-converter)
+
+
+### Day 28: January 30, 2017, Monday
+
+** Today's Progress**: Back to working on KitchenMaster app - preventing duplicates in db, making code more readable. Also worked on decision trees - C4.5 in Rweka is quite annoying.
+
+**Thoughts**: Keeping up with Android upgrades is like keeping up with the Kardashians - super frustrating and makes you feel dumb.
+
+**Link(s) to work**
+
+1. [KitchenMaster latest commit]: (https://github.com/ConnieZ/KitchenMaster/commit/ea7ae5d6d47ce2849a6d92172707378d63b2bf6b)
