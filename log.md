@@ -312,3 +312,14 @@
 **Link(s) to work**
 
 1. [KitchenMaster latest commit]: (https://github.com/ConnieZ/KitchenMaster/commit/ea7ae5d6d47ce2849a6d92172707378d63b2bf6b)
+
+
+### Day 29: January 31, 2017, Tuesday
+
+** Today's Progress**: Back to working on KitchenMaster app - implemented loading of initial data from txt file, so won't need to manually enter all the data into phone when upgrading. Added logo to action bar. Will look into preventing SQLiteConnection leaks.
+
+**Thoughts**: Feeling pretty good about today's progress.
+
+**Link(s) to work**
+
+1. [KitchenMaster latest commit]: (https://github.com/ConnieZ/KitchenMaster/commit/d65e636555fe4382c2410d55392677643b4a898b)
