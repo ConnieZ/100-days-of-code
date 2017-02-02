@@ -323,3 +323,14 @@
 **Link(s) to work**
 
 1. [KitchenMaster latest commit]: (https://github.com/ConnieZ/KitchenMaster/commit/d65e636555fe4382c2410d55392677643b4a898b)
+
+### Day 30: February 1, 2017, Wednesday
+
+** Today's Progress**: Back to working on KitchenMaster app - eliminated SQLite db Connection leaks, fixed the layout bug in ShoppingList activity, added over a 100 default items, streamlined code and converted SL activity to AppCompactActivity.
+
+**Thoughts**: Feeling pretty good about today's progress.
+
+**Link(s) to work**
+
+1. [KitchenMaster commit 1]: (https://github.com/ConnieZ/KitchenMaster/commit/a57786d711393a63427532ac28f07abb8db3f7f8)
+2. [KitchenMaster commit 2]: (https://github.com/ConnieZ/KitchenMaster/commit/9316a1737f6a08ed93c1ae78eb69028900fca3c2)
