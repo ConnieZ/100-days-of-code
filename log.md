@@ -345,3 +345,13 @@
 **Link(s) to work**
 
 1. [KitchenMaster commit 1]:(https://www.freecodecamp.com/conniez)
+
+### Day 32: February 3, 2017, Friday
+
+** Today's Progress**: 4 more array challenges in JavaScript.
+
+**Thoughts**: Having fun, especially with map and reduce.
+
+**Link(s) to work**
+
+1. [KitchenMaster commit 1]:(https://www.freecodecamp.com/conniez)
