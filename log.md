@@ -355,3 +355,15 @@
 **Link(s) to work**
 
 1. [KitchenMaster commit 1]:(https://www.freecodecamp.com/conniez)
+
+
+### Day 33: February 4, 2017, Saturday
+
+** Today's Progress**: 5 more algorithm challenges in JavaScript.
+
+**Thoughts**: Having fun, especially with map and reduce.
+
+**Link(s) to work**
+
+1. [KitchenMaster commit 1]:(https://www.freecodecamp.com/conniez)
+
