@@ -367,3 +367,14 @@
 
 1. [KitchenMaster commit 1]:(https://www.freecodecamp.com/conniez)
 
+
+### Day 34: February 5, 2017, Sunday
+
+** Today's Progress**: Taking advantage of the challenge to prep for Java exam - spent 3 hours on Java OCA Exam practice.
+
+**Thoughts**: Still some topics present difficulties, will share the code of practice in a separate repo soon.
+
+**Link(s) to work**
+
+1. [Link to Practice Test site]:(http://sybextestbanks.wiley.com/)
+
