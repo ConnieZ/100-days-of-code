@@ -378,3 +378,14 @@
 
 1. [Link to Practice Test site]:(http://sybextestbanks.wiley.com/)
 
+
+
+### Day 35: February 6, 2017, Monday
+
+** Today's Progress**: Working on some of the trickier Java concepts based on OCA practice test results.
+
+**Thoughts**: Bottom line - pay close attention to the code.
+
+**Link(s) to work**
+
+1. [Link to Practice Code Commit]:(https://github.com/ConnieZ/JavaExamPrep/commit/784699998c418540bd9fbf9c33ff9361bc6fad9c)
