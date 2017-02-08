@@ -389,3 +389,15 @@
 **Link(s) to work**
 
 1. [Link to Practice Code Commit]:(https://github.com/ConnieZ/JavaExamPrep/commit/784699998c418540bd9fbf9c33ff9361bc6fad9c)
+
+
+
+### Day 36: February 7, 2017, Tuesday
+
+** Today's Progress**: Continued working on some of the trickier Java concepts based on OCA practice test results.
+
+**Thoughts**: Bottom line - pay close attention to the code.
+
+**Link(s) to work**
+
+1. [Link to latest Practice Code Commit]:(https://github.com/ConnieZ/JavaExamPrep/commit/1cefa1dd40ee19568cca964beece1dbce96df9f5)
