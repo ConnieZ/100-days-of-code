@@ -412,3 +412,16 @@
 **Link(s) to work**
 
 1. [Link to latest Practice Code Commit]:(https://github.com/ConnieZ/JavaExamPrep/commit/7e0db8ca8610f2da4585d7af9eab4f3fe52ba3c1)
+
+
+
+### Day 38: February 9, 2017, Thursday
+
+** Today's Progress**: Mostly solved freecodecamp JavaScript challenges, but also continued working on some of the trickier Java concepts based on OCA practice test results.
+
+**Thoughts**: One basic challenge left in freecodecamp, bottom line - pay close attention to the code.
+
+**Link(s) to work**
+
+1. [Link to latest Practice Code Commit]:(https://github.com/ConnieZ/JavaExamPrep/commit/83eca760f70fd39a523ceec1cbeb97ba93fb0096)
+2. [Challenges solved today on freecodecamp]:(https://www.freecodecamp.com/conniez)
