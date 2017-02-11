@@ -425,3 +425,14 @@
 
 1. [Link to latest Practice Code Commit]:(https://github.com/ConnieZ/JavaExamPrep/commit/83eca760f70fd39a523ceec1cbeb97ba93fb0096)
 2. [Challenges solved today on freecodecamp]:(https://www.freecodecamp.com/conniez)
+
+
+### Day 39: February 10, 2017, Friday
+
+** Today's Progress**: Continued working on some of the trickier Java concepts based on OCA practice test results.
+
+**Thoughts**: Done with the training, time to take the practice test again.
+
+**Link(s) to work**
+
+1. [Link to latest Practice Code Commit]:(https://github.com/ConnieZ/JavaExamPrep/commit/92e1f1ab223649a05504e50382f42dee61a7d7b5)
