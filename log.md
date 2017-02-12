@@ -436,3 +436,13 @@
 **Link(s) to work**
 
 1. [Link to latest Practice Code Commit]:(https://github.com/ConnieZ/JavaExamPrep/commit/92e1f1ab223649a05504e50382f42dee61a7d7b5)
+
+### Day 40: February 11, 2017, Saturday
+
+** Today's Progress**: In my delay_predictor, I added C5.0 tree algorithm, and pruned C5.0 tree. Prettified the UI slightly.
+
+**Thoughts**: So far 4 tree algorithms agree that scheduled Departure Hour is one of the most important factors in flights being delayed.
+
+**Link(s) to work**
+
+1. [Link to latest Commit]:(https://github.com/ConnieZ/delay_predictor/commit/4780c8fcc777bd06969beb2c717bdab79d441bb0)
