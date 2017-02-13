@@ -446,3 +446,13 @@
 **Link(s) to work**
 
 1. [Link to latest Commit]:(https://github.com/ConnieZ/delay_predictor/commit/4780c8fcc777bd06969beb2c717bdab79d441bb0)
+
+### Day 41: February 12, 2017, Sunday
+
+** Today's Progress**: In my KitchenMaster, changed database data model, refactored code to fit that. I reached Level 4 on codingame.com.
+
+**Thoughts**: Had a blast on codingame.com.
+
+**Link(s) to work**
+
+1. [Link to latest Commit]:(https://github.com/ConnieZ/KitchenMaster/commit/a19d79216136f1aae0d42890018ef8047e31df6b)
