@@ -456,3 +456,14 @@
 **Link(s) to work**
 
 1. [Link to latest Commit]:(https://github.com/ConnieZ/KitchenMaster/commit/a19d79216136f1aae0d42890018ef8047e31df6b)
+
+
+### Day 42: February 13, 2017, Monday
+
+** Today's Progress**: I created a practice app to learn Android Fragments.
+
+**Thoughts**: A little confused by Fragments.
+
+**Link(s) to work**
+
+1. [Link to latest Commit]:(https://github.com/ConnieZ/FragmentApplicationAndroid/commit/fbd74377be23dc4fb8363ef56a1c2ba3725a0f72)
