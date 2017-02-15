@@ -467,3 +467,14 @@
 **Link(s) to work**
 
 1. [Link to latest Commit]:(https://github.com/ConnieZ/FragmentApplicationAndroid/commit/fbd74377be23dc4fb8363ef56a1c2ba3725a0f72)
+
+
+### Day 43: February 14, 2017, Tuesday
+
+** Today's Progress**: Did some more Java review for OCA, practed tricky String, StringBuilder, arrays, casting rules.
+
+**Thoughts**: I would really like to pass the OCA exam at the end of the 100DaysOfCode challenge.
+
+**Link(s) to work**
+
+1. [Link to latest Commit]:(https://github.com/ConnieZ/JavaExamPrep/commit/415ca91c53952b8904420b8ca77c6972360ed439)
