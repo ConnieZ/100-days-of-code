@@ -478,3 +478,14 @@
 **Link(s) to work**
 
 1. [Link to latest Commit]:(https://github.com/ConnieZ/JavaExamPrep/commit/415ca91c53952b8904420b8ca77c6972360ed439)
+
+
+### Day 44: February 15, 2017, Wednesday
+
+** Today's Progress**: Practiced Java by solving puzzles on CodinGame.
+
+**Thoughts**: I would really like to pass the OCA exam at the end of the 100DaysOfCode challenge.
+
+**Link(s) to work**
+
+1. [Link to CodinGame profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
