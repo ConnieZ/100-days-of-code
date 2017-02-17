@@ -489,3 +489,14 @@
 **Link(s) to work**
 
 1. [Link to CodinGame profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
+
+
+### Day 45: February 16, 2017, Thursday
+
+** Today's Progress**: Did some more Java review for OCA, practed tricky access modifier, inheritance, overriding and overloading rules.
+
+**Thoughts**: I would really like to pass the OCA exam at the end of the 100DaysOfCode challenge.
+
+**Link(s) to work**
+
+1. [Link to latest Commit]:(https://github.com/ConnieZ/JavaExamPrep/commit/13eb3f4d1db7240b2f9cc81a601e8a546426ca49)
