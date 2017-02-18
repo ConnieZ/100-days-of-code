@@ -500,3 +500,14 @@
 **Link(s) to work**
 
 1. [Link to latest Commit]:(https://github.com/ConnieZ/JavaExamPrep/commit/13eb3f4d1db7240b2f9cc81a601e8a546426ca49)
+
+
+### Day 46: February 17, 2017, Friday
+
+** Today's Progress**: Continued Java review for OCA, practed tricky access modifier, inheritance, overriding and overloading rules.
+
+**Thoughts**: I would really like to pass the OCA exam at the end of the 100DaysOfCode challenge.
+
+**Link(s) to work**
+
+1. [Link to latest Commit]:(https://github.com/ConnieZ/JavaExamPrep/commit/ab5cce55cee2b754c474d7d6f3c2f84ce8a38361)
