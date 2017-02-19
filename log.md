@@ -511,3 +511,15 @@
 **Link(s) to work**
 
 1. [Link to latest Commit]:(https://github.com/ConnieZ/JavaExamPrep/commit/ab5cce55cee2b754c474d7d6f3c2f84ce8a38361)
+
+
+
+### Day 47: February 18, 2017, Saturday
+
+** Today's Progress**: Played my first clash of code on CodinGame, solved some puzzles.
+
+**Thoughts**: They are not getting easier...
+
+**Link(s) to work**
+
+1. [Link to CodinGame profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
