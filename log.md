@@ -523,3 +523,14 @@
 **Link(s) to work**
 
 1. [Link to CodinGame profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
+
+
+### Day 48: February 19, 2017, Sunday
+
+** Today's Progress**: Reviewing arrays and arrayLists for Java exam.
+
+**Thoughts**: Apparently you can't instantiate a variable outside a method, unless it's combined with declaration...
+
+**Link(s) to work**
+
+1. [Link to latest commit]:(https://github.com/ConnieZ/JavaExamPrep/commit/5fe8de0d4384ba364e82fa326449594f46c195f2)
