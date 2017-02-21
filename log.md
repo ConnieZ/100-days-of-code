@@ -534,3 +534,15 @@
 **Link(s) to work**
 
 1. [Link to latest commit]:(https://github.com/ConnieZ/JavaExamPrep/commit/5fe8de0d4384ba364e82fa326449594f46c195f2)
+
+### Day 49: February 20, 2017, Monday
+
+** Today's Progress**: Continued reviewing arrays and arrayLists for Java exam.
+
+**Thoughts**: Correction, turns out you can remove int from ArrayList, by using Integer wrapper class. Hey, you learn sth new every day :)
+
+**Link(s) to work**
+
+1. [Link to latest commit]:(https://github.com/ConnieZ/JavaExamPrep/commit/d84fb3d9d51d9165a50832c629d337ba91ca2781)
+2. [Link to a Jupyter Notebooks repo]:(https://github.com/ConnieZ/Data_Science_with_SparkR)
+
