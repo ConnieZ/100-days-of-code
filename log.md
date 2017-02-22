@@ -546,3 +546,14 @@
 1. [Link to latest commit]:(https://github.com/ConnieZ/JavaExamPrep/commit/d84fb3d9d51d9165a50832c629d337ba91ca2781)
 2. [Link to a Jupyter Notebooks repo]:(https://github.com/ConnieZ/Data_Science_with_SparkR)
 
+
+### Day 50: February 21, 2017, Tuesday
+
+** Today's Progress**: Continued reviewing arrays and arrayLists for Java exam.
+
+**Thoughts**: Wow, I'm half-way through the challenge!
+
+**Link(s) to work**
+
+1. [Link to latest commit]:(https://github.com/ConnieZ/JavaExamPrep/commit/b59379495264d4015168de766a37536416b009b0)
+
