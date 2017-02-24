@@ -567,3 +567,15 @@
 **Link(s) to work**
 
 1. [Link to latest commit]:(https://github.com/ConnieZ/JavaExamPrep/commit/f349e6ccb5fe472fcc90b15035691f8de82f2e9f)
+
+
+
+### Day 52: February 23, 2017, Thursday
+
+** Today's Progress**: Continued learning Date and Time API in Java 8.
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. [Link to latest commit]:(https://github.com/ConnieZ/JavaExamPrep/commit/fe1ced0757d8beb5e8ab05cf8db49de7013e9c34)
