@@ -579,3 +579,14 @@
 **Link(s) to work**
 
 1. [Link to latest commit]:(https://github.com/ConnieZ/JavaExamPrep/commit/fe1ced0757d8beb5e8ab05cf8db49de7013e9c34)
+
+### Day 53: February 24, 2017, Friday
+
+** Today's Progress**: Finished reviewing Date and Time API in Java 8. Solved Caesar Cipher challenge on freecodecamp.
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. [Link to latest commit]:(https://github.com/ConnieZ/JavaExamPrep/commit/7941b5a5ce6744ca7284b4e4d9bba704bebe398e)
+2. [Link to freecodecamp profile]:(https://www.freecodecamp.com/conniez)
