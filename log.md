@@ -590,3 +590,14 @@
 
 1. [Link to latest commit]:(https://github.com/ConnieZ/JavaExamPrep/commit/7941b5a5ce6744ca7284b4e4d9bba704bebe398e)
 2. [Link to freecodecamp profile]:(https://www.freecodecamp.com/conniez)
+
+
+### Day 54: February 25, 2017, Saturday
+
+** Today's Progress**: Learned bot programming through a starship race on codingame.com
+
+**Thoughts**: It's pretty fascinating to learn multiplayer game programming.
+
+**Link(s) to work**
+
+1. [Link to codingame profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
