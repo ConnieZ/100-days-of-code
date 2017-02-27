@@ -601,3 +601,15 @@
 **Link(s) to work**
 
 1. [Link to codingame profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
+
+
+### Day 55: February 26, 2017, Sunday
+
+** Today's Progress**: Performed bot programming as part of Ghost in the Cell contest at codingame.com
+
+**Thoughts**: Took me hours to get out of lowest Leage, now I'm Wood 2 League, and not the last one.
+
+**Link(s) to work**
+
+1. [Link to codingame profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
+2. [Link to contest]:(https://www.codingame.com/contests/ghost-in-the-cell)
