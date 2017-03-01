@@ -617,9 +617,21 @@
 
 ### Day 56: February 27, 2017, Monday
 
-** Today's Progress**: Significantly mproved my code for bot programming as part of Ghost in the Cell contest at codingame.com
+** Today's Progress**: Significantly improved my code for bot programming as part of Ghost in the Cell contest at codingame.com
 
 **Thoughts**: I'm finally in Wood 1 League, and closer to the top!
+
+**Link(s) to work**
+
+1. [Link to codingame profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
+2. [Link to contest]:(https://www.codingame.com/contests/ghost-in-the-cell)
+
+
+### Day 57: February 28, 2017, Tuesday
+
+** Today's Progress**: Improved my code for bot programming as part of Ghost in the Cell contest at codingame.com
+
+**Thoughts**: I made it to the Bronze League, Woot Woot!
 
 **Link(s) to work**
 
