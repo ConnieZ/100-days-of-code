@@ -638,3 +638,16 @@
 1. [Link to codingame profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
 2. [Link to contest]:(https://www.codingame.com/contests/ghost-in-the-cell)
 
+
+
+### Day 58: March 1, 2017, Wednesday
+
+** Today's Progress**: Improved my code for bot programming as part of Ghost in the Cell contest at codingame.com
+
+**Thoughts**: Still in the Bronze League, but getting higher to the top!
+
+**Link(s) to work**
+
+1. [Link to codingame profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
+2. [Link to contest]:(https://www.codingame.com/contests/ghost-in-the-cell)
+
