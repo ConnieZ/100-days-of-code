@@ -663,3 +663,16 @@
 1. [Commit to java practice repo]:(https://github.com/ConnieZ/JavaExamPrep/commit/37e98950fa64735463c89f6408e013ea04f49d28)
 2. [Link to codingame profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
 3. [Link to contest]:(https://www.codingame.com/contests/ghost-in-the-cell)
+
+
+### Day 60: March 3, 2017, Friday
+
+** Today's Progress**: Learned how to extend, save, push and load Docker images. Improved my code for bot programming as part of Ghost in the Cell contest at codingame.com
+
+**Thoughts**: Still in the Bronze League, but getting higher to the top, highest today was 48 out of 1463!
+
+**Link(s) to work**
+
+1. [Commit Docker stacks]:(https://github.com/ConnieZ/docker-stacks/commit/9291b20f298b622b3cb9719c6314417893c98d84)
+2. [Link to codingame profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
+3. [Link to contest]:(https://www.codingame.com/contests/ghost-in-the-cell)
