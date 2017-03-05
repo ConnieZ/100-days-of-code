@@ -676,3 +676,16 @@
 1. [Commit Docker stacks]:(https://github.com/ConnieZ/docker-stacks/commit/9291b20f298b622b3cb9719c6314417893c98d84)
 2. [Link to codingame profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
 3. [Link to contest]:(https://www.codingame.com/contests/ghost-in-the-cell)
+
+
+### Day 61: March 4, 2017, Saturday
+
+** Today's Progress**: Submitted my last improvement to bot algorithm in Ghost in the Cell contest at codingame.com
+
+**Thoughts**: Still in the Bronze League, highest today was 29 out of 1463! Ranking 95 in the US.
+
+**Link(s) to work**
+
+1. [Replay of my algorithm]:(https://www.codingame.com/replay/193645882)
+2. [Link to codingame profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
+3. [Link to contest]:(https://www.codingame.com/contests/ghost-in-the-cell)
