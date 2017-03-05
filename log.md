@@ -682,7 +682,7 @@
 
 ** Today's Progress**: Submitted my last improvement to bot algorithm in Ghost in the Cell contest at codingame.com
 
-**Thoughts**: Still in the Bronze League, highest today was 29 out of 1463! Ranking 95 in the US.
+**Thoughts**: Finally made it into Silver League, highest today was 555 out of ~650 ! Ranking 88 in the US.
 
 **Link(s) to work**
 
