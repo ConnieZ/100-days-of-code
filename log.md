@@ -689,3 +689,15 @@
 1. [Replay of my algorithm]:(https://www.codingame.com/replay/193645882)
 2. [Link to codingame profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
 3. [Link to contest]:(https://www.codingame.com/contests/ghost-in-the-cell)
+
+
+
+### Day 62: March 5, 2017, Sunday
+
+** Today's Progress**: Solved some more puzzles on codingame.com
+
+**Thoughts**: ASCII can be fun!
+
+**Link(s) to work**
+
+1. [Link to codingame profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
