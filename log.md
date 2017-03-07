@@ -701,3 +701,14 @@
 **Link(s) to work**
 
 1. [Link to codingame profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
+
+
+### Day 63: March 6, 2017, Monday
+
+** Today's Progress**: Solved some more puzzles on codingame.com - helped Marvin and his clones in "Don't Panic" puzzle.
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. [Link to codingame profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
