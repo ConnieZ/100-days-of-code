@@ -712,3 +712,14 @@
 **Link(s) to work**
 
 1. [Link to codingame profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
+
+
+### Day 64: March 7, 2017, Tuesday
+
+** Today's Progress**: Solved some more puzzles on codingame.com - Encoded messages using Chuck Norris' method. Did some reviewing of methods theory in Java.
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. [Link to codingame profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
