@@ -723,3 +723,14 @@
 **Link(s) to work**
 
 1. [Link to codingame profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
+
+
+### Day 65: March 8, 2017, Wednesday
+
+** Today's Progress**: Submitted as solution to the Code Golf version of Don't Panic.
+
+**Thoughts**: Couldn't do much, because I was feeling sick, so worked to my best ability.
+
+**Link(s) to work**
+
+1. [Link to codingame profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
