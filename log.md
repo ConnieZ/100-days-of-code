@@ -734,3 +734,14 @@
 **Link(s) to work**
 
 1. [Link to codingame profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
+
+
+### Day 66: March 9, 2017, Thursday
+
+** Today's Progress**: Improved my solution to the Code Golf version of Don't Panic. Started working on "There is no spoon" puzzle in codingame.com
+
+**Thoughts**: Still couldn't do much, because I was feeling sick, so worked to my best ability.
+
+**Link(s) to work**
+
+1. [Link to codingame profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
