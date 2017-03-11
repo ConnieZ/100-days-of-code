@@ -745,3 +745,14 @@
 **Link(s) to work**
 
 1. [Link to codingame profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
+
+
+### Day 67: March 10, 2017, Friday
+
+** Today's Progress**: Solved "There is no spoon" puzzle in codingame.com and submitted a Code Golf solution to Temperatures. 
+
+**Thoughts**: Excited to be a Crafter! No longer a rookie.
+
+**Link(s) to work**
+
+1. [Link to codingame profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
