@@ -756,3 +756,14 @@
 **Link(s) to work**
 
 1. [Link to codingame profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
+
+
+### Day 68: March 11, 2017, Saturday
+
+** Today's Progress**: Back to Java theory - reviewing methods today, access modifiers, specifiers, etc. 
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. [Link to latest commmit]:(https://github.com/ConnieZ/JavaExamPrep/commit/a15cad4fd2ecd8375824142f4829e4ccac6bc764)
