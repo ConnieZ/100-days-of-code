@@ -767,3 +767,15 @@
 **Link(s) to work**
 
 1. [Link to latest commmit]:(https://github.com/ConnieZ/JavaExamPrep/commit/a15cad4fd2ecd8375824142f4829e4ccac6bc764)
+
+
+
+### Day 69: March 12, 2017, Sunday
+
+** Today's Progress**: Continued Java theory review for the OCA exam - reviewing methods again, access modifiers, specifiers, etc. 
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. [Link to latest commmit]:(https://github.com/ConnieZ/JavaExamPrep/commit/b82e199c19a40b5c1122649647d1191f225c6f24)
