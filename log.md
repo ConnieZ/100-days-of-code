@@ -779,3 +779,14 @@
 **Link(s) to work**
 
 1. [Link to latest commmit]:(https://github.com/ConnieZ/JavaExamPrep/commit/b82e199c19a40b5c1122649647d1191f225c6f24)
+
+
+### Day 70: March 13, 2017, Monday
+
+** Today's Progress**: Continued Java theory review for the OCA exam - reviewing methods again, overloading, autoboxing, passing by value, etc. 
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. [Link to latest commmit]:(https://github.com/ConnieZ/JavaExamPrep/commit/7cc20bc2b9ab71776ed4dabc30b09242653a9cac
