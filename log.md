@@ -789,4 +789,15 @@
 
 **Link(s) to work**
 
-1. [Link to latest commmit]:(https://github.com/ConnieZ/JavaExamPrep/commit/7cc20bc2b9ab71776ed4dabc30b09242653a9cac
+1. [Link to latest commmit]:(https://github.com/ConnieZ/JavaExamPrep/commit/7cc20bc2b9ab71776ed4dabc30b09242653a9cac)
+
+
+### Day 71: March 14, 2017, Tuesday
+
+** Today's Progress**: I added another algorithm to my Delay Predictor - Artificial Neural Networks with neuralnet package in R. Still figuring out how to run predictions with it.
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. [Link to latest commmit]:(https://github.com/ConnieZ/delay_predictor/commit/b0774ab83369326cf5d5a461e1fe577221d5ea8d)
