@@ -801,3 +801,14 @@
 **Link(s) to work**
 
 1. [Link to latest commmit]:(https://github.com/ConnieZ/delay_predictor/commit/b0774ab83369326cf5d5a461e1fe577221d5ea8d)
+
+
+### Day 72: March 15, 2017, Wednesday
+
+** Today's Progress**: Worked on solving the Mayan Calculations puzzle on codingame.com.
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. [Link to profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
