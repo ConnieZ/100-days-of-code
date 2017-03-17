@@ -812,3 +812,14 @@
 **Link(s) to work**
 
 1. [Link to profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
+
+
+### Day 73: March 16, 2017, Thursday
+
+** Today's Progress**: Continued Java theory review for the OCA exam - reviewing methods again, overloading and constructors. 
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. [Link to latest commmit]:(https://github.com/ConnieZ/JavaExamPrep/commit/06e3b8f2e6a627c2b8f6779236d81702b5488ed5)
