@@ -823,3 +823,14 @@
 **Link(s) to work**
 
 1. [Link to latest commmit]:(https://github.com/ConnieZ/JavaExamPrep/commit/06e3b8f2e6a627c2b8f6779236d81702b5488ed5)
+
+
+### Day 74: March 17, 2017, Friday
+
+** Today's Progress**: Worked more on solving the Mayan Calculations puzzle on codingame.com. Reviewed base number conversions, passed 4 test cases now (improvement from 1).
+
+**Thoughts**: Very interesting puzzle!
+
+**Link(s) to work**
+
+1. [Link to profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
