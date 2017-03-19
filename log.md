@@ -834,3 +834,15 @@
 **Link(s) to work**
 
 1. [Link to profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
+
+
+
+### Day 75: March 18, 2017, Saturday
+
+** Today's Progress**: Scored 100% on the Mayan Calculations puzzle on codingame.com. Passed all the test cases, even those that people struggle with most (community completion score is only 82%).
+
+**Thoughts**: Feels like a great accomplishment and got me to level 9!
+
+**Link(s) to work**
+
+1. [Link to profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
