@@ -846,3 +846,14 @@
 **Link(s) to work**
 
 1. [Link to profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
+
+
+### Day 76: March 19, 2017, Sunday
+
+** Today's Progress**: Back to Java practice for OCA exam - took the review test and practiced the areas where I made mistakes.
+
+**Thoughts**: Hate memorizing things. 
+
+**Link(s) to work**
+
+1. [Link to latest commit]:(https://github.com/ConnieZ/JavaExamPrep/commit/7051030a755244419af6f476f0478ac5001601fe)
