@@ -857,3 +857,15 @@
 **Link(s) to work**
 
 1. [Link to latest commit]:(https://github.com/ConnieZ/JavaExamPrep/commit/7051030a755244419af6f476f0478ac5001601fe)
+
+
+
+### Day 77: March 20, 2017, Monday
+
+** Today's Progress**: More Java practice for OCA exam - constructors and order of initialization.
+
+**Thoughts**:  
+
+**Link(s) to work**
+
+1. [Link to latest commit]:(https://github.com/ConnieZ/JavaExamPrep/commit/ea14bb0e7700bb02ba68267240409db1f45d73f1)
