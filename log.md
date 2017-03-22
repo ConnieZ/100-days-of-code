@@ -300,7 +300,7 @@
 
 **Link(s) to work**
 
-1. [The challenge]: (https://www.freecodecamp.com/challenges/roman-numeral-converter)
+1. [The challenge](https://www.freecodecamp.com/challenges/roman-numeral-converter)
 
 
 ### Day 28: January 30, 2017, Monday
@@ -311,7 +311,7 @@
 
 **Link(s) to work**
 
-1. [KitchenMaster latest commit]: (https://github.com/ConnieZ/KitchenMaster/commit/ea7ae5d6d47ce2849a6d92172707378d63b2bf6b)
+1. [KitchenMaster latest commit](https://github.com/ConnieZ/KitchenMaster/commit/ea7ae5d6d47ce2849a6d92172707378d63b2bf6b)
 
 
 ### Day 29: January 31, 2017, Tuesday
@@ -322,7 +322,7 @@
 
 **Link(s) to work**
 
-1. [KitchenMaster latest commit]: (https://github.com/ConnieZ/KitchenMaster/commit/d65e636555fe4382c2410d55392677643b4a898b)
+1. [KitchenMaster latest commit](https://github.com/ConnieZ/KitchenMaster/commit/d65e636555fe4382c2410d55392677643b4a898b)
 
 ### Day 30: February 1, 2017, Wednesday
 
@@ -332,8 +332,8 @@
 
 **Link(s) to work**
 
-1. [KitchenMaster commit 1]: (https://github.com/ConnieZ/KitchenMaster/commit/a57786d711393a63427532ac28f07abb8db3f7f8)
-2. [KitchenMaster commit 2]: (https://github.com/ConnieZ/KitchenMaster/commit/9316a1737f6a08ed93c1ae78eb69028900fca3c2)
+1. [KitchenMaster commit 1](https://github.com/ConnieZ/KitchenMaster/commit/a57786d711393a63427532ac28f07abb8db3f7f8)
+2. [KitchenMaster commit 2](https://github.com/ConnieZ/KitchenMaster/commit/9316a1737f6a08ed93c1ae78eb69028900fca3c2)
 
 
 ### Day 31: February 2, 2017, Thursday
@@ -344,7 +344,7 @@
 
 **Link(s) to work**
 
-1. [KitchenMaster commit 1]:(https://www.freecodecamp.com/conniez)
+1. [KitchenMaster commit 1](https://www.freecodecamp.com/conniez)
 
 ### Day 32: February 3, 2017, Friday
 
@@ -354,7 +354,7 @@
 
 **Link(s) to work**
 
-1. [KitchenMaster commit 1]:(https://www.freecodecamp.com/conniez)
+1. [KitchenMaster commit 1](https://www.freecodecamp.com/conniez)
 
 
 ### Day 33: February 4, 2017, Saturday
@@ -365,7 +365,7 @@
 
 **Link(s) to work**
 
-1. [KitchenMaster commit 1]:(https://www.freecodecamp.com/conniez)
+1. [KitchenMaster commit 1](https://www.freecodecamp.com/conniez)
 
 
 ### Day 34: February 5, 2017, Sunday
@@ -376,7 +376,7 @@
 
 **Link(s) to work**
 
-1. [Link to Practice Test site]:(http://sybextestbanks.wiley.com/)
+1. [Link to Practice Test site](http://sybextestbanks.wiley.com/)
 
 
 
@@ -388,7 +388,7 @@
 
 **Link(s) to work**
 
-1. [Link to Practice Code Commit]:(https://github.com/ConnieZ/JavaExamPrep/commit/784699998c418540bd9fbf9c33ff9361bc6fad9c)
+1. [Link to Practice Code Commit](https://github.com/ConnieZ/JavaExamPrep/commit/784699998c418540bd9fbf9c33ff9361bc6fad9c)
 
 
 
@@ -400,7 +400,7 @@
 
 **Link(s) to work**
 
-1. [Link to latest Practice Code Commit]:(https://github.com/ConnieZ/JavaExamPrep/commit/1cefa1dd40ee19568cca964beece1dbce96df9f5)
+1. [Link to latest Practice Code Commit](https://github.com/ConnieZ/JavaExamPrep/commit/1cefa1dd40ee19568cca964beece1dbce96df9f5)
 
 
 ### Day 37: February 8, 2017, Wednesday
@@ -411,7 +411,7 @@
 
 **Link(s) to work**
 
-1. [Link to latest Practice Code Commit]:(https://github.com/ConnieZ/JavaExamPrep/commit/7e0db8ca8610f2da4585d7af9eab4f3fe52ba3c1)
+1. [Link to latest Practice Code Commit](https://github.com/ConnieZ/JavaExamPrep/commit/7e0db8ca8610f2da4585d7af9eab4f3fe52ba3c1)
 
 
 
@@ -423,8 +423,8 @@
 
 **Link(s) to work**
 
-1. [Link to latest Practice Code Commit]:(https://github.com/ConnieZ/JavaExamPrep/commit/83eca760f70fd39a523ceec1cbeb97ba93fb0096)
-2. [Challenges solved today on freecodecamp]:(https://www.freecodecamp.com/conniez)
+1. [Link to latest Practice Code Commit](https://github.com/ConnieZ/JavaExamPrep/commit/83eca760f70fd39a523ceec1cbeb97ba93fb0096)
+2. [Challenges solved today on freecodecamp](https://www.freecodecamp.com/conniez)
 
 
 ### Day 39: February 10, 2017, Friday
@@ -435,7 +435,7 @@
 
 **Link(s) to work**
 
-1. [Link to latest Practice Code Commit]:(https://github.com/ConnieZ/JavaExamPrep/commit/92e1f1ab223649a05504e50382f42dee61a7d7b5)
+1. [Link to latest Practice Code Commit](https://github.com/ConnieZ/JavaExamPrep/commit/92e1f1ab223649a05504e50382f42dee61a7d7b5)
 
 ### Day 40: February 11, 2017, Saturday
 
@@ -445,7 +445,7 @@
 
 **Link(s) to work**
 
-1. [Link to latest Commit]:(https://github.com/ConnieZ/delay_predictor/commit/4780c8fcc777bd06969beb2c717bdab79d441bb0)
+1. [Link to latest Commit](https://github.com/ConnieZ/delay_predictor/commit/4780c8fcc777bd06969beb2c717bdab79d441bb0)
 
 ### Day 41: February 12, 2017, Sunday
 
@@ -455,7 +455,7 @@
 
 **Link(s) to work**
 
-1. [Link to latest Commit]:(https://github.com/ConnieZ/KitchenMaster/commit/a19d79216136f1aae0d42890018ef8047e31df6b)
+1. [Link to latest Commit](https://github.com/ConnieZ/KitchenMaster/commit/a19d79216136f1aae0d42890018ef8047e31df6b)
 
 
 ### Day 42: February 13, 2017, Monday
@@ -466,7 +466,7 @@
 
 **Link(s) to work**
 
-1. [Link to latest Commit]:(https://github.com/ConnieZ/FragmentApplicationAndroid/commit/fbd74377be23dc4fb8363ef56a1c2ba3725a0f72)
+1. [Link to latest Commit](https://github.com/ConnieZ/FragmentApplicationAndroid/commit/fbd74377be23dc4fb8363ef56a1c2ba3725a0f72)
 
 
 ### Day 43: February 14, 2017, Tuesday
@@ -477,7 +477,7 @@
 
 **Link(s) to work**
 
-1. [Link to latest Commit]:(https://github.com/ConnieZ/JavaExamPrep/commit/415ca91c53952b8904420b8ca77c6972360ed439)
+1. [Link to latest Commit](https://github.com/ConnieZ/JavaExamPrep/commit/415ca91c53952b8904420b8ca77c6972360ed439)
 
 
 ### Day 44: February 15, 2017, Wednesday
@@ -488,7 +488,7 @@
 
 **Link(s) to work**
 
-1. [Link to CodinGame profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
+1. [Link to CodinGame profile](https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
 
 
 ### Day 45: February 16, 2017, Thursday
@@ -499,7 +499,7 @@
 
 **Link(s) to work**
 
-1. [Link to latest Commit]:(https://github.com/ConnieZ/JavaExamPrep/commit/13eb3f4d1db7240b2f9cc81a601e8a546426ca49)
+1. [Link to latest Commit](https://github.com/ConnieZ/JavaExamPrep/commit/13eb3f4d1db7240b2f9cc81a601e8a546426ca49)
 
 
 ### Day 46: February 17, 2017, Friday
@@ -510,7 +510,7 @@
 
 **Link(s) to work**
 
-1. [Link to latest Commit]:(https://github.com/ConnieZ/JavaExamPrep/commit/ab5cce55cee2b754c474d7d6f3c2f84ce8a38361)
+1. [Link to latest Commit](https://github.com/ConnieZ/JavaExamPrep/commit/ab5cce55cee2b754c474d7d6f3c2f84ce8a38361)
 
 
 
@@ -522,7 +522,7 @@
 
 **Link(s) to work**
 
-1. [Link to CodinGame profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
+1. [Link to CodinGame profile](https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
 
 
 ### Day 48: February 19, 2017, Sunday
@@ -533,7 +533,7 @@
 
 **Link(s) to work**
 
-1. [Link to latest commit]:(https://github.com/ConnieZ/JavaExamPrep/commit/5fe8de0d4384ba364e82fa326449594f46c195f2)
+1. [Link to latest commit](https://github.com/ConnieZ/JavaExamPrep/commit/5fe8de0d4384ba364e82fa326449594f46c195f2)
 
 ### Day 49: February 20, 2017, Monday
 
@@ -543,8 +543,8 @@
 
 **Link(s) to work**
 
-1. [Link to latest commit]:(https://github.com/ConnieZ/JavaExamPrep/commit/d84fb3d9d51d9165a50832c629d337ba91ca2781)
-2. [Link to a Jupyter Notebooks repo]:(https://github.com/ConnieZ/Data_Science_with_SparkR)
+1. [Link to latest commit](https://github.com/ConnieZ/JavaExamPrep/commit/d84fb3d9d51d9165a50832c629d337ba91ca2781)
+2. [Link to a Jupyter Notebooks repo](https://github.com/ConnieZ/Data_Science_with_SparkR)
 
 
 ### Day 50: February 21, 2017, Tuesday
@@ -555,7 +555,7 @@
 
 **Link(s) to work**
 
-1. [Link to latest commit]:(https://github.com/ConnieZ/JavaExamPrep/commit/b59379495264d4015168de766a37536416b009b0)
+1. [Link to latest commit](https://github.com/ConnieZ/JavaExamPrep/commit/b59379495264d4015168de766a37536416b009b0)
 
 
 ### Day 51: February 22, 2017, Wednesday
@@ -566,7 +566,7 @@
 
 **Link(s) to work**
 
-1. [Link to latest commit]:(https://github.com/ConnieZ/JavaExamPrep/commit/f349e6ccb5fe472fcc90b15035691f8de82f2e9f)
+1. [Link to latest commit](https://github.com/ConnieZ/JavaExamPrep/commit/f349e6ccb5fe472fcc90b15035691f8de82f2e9f)
 
 
 
@@ -578,7 +578,7 @@
 
 **Link(s) to work**
 
-1. [Link to latest commit]:(https://github.com/ConnieZ/JavaExamPrep/commit/fe1ced0757d8beb5e8ab05cf8db49de7013e9c34)
+1. [Link to latest commit](https://github.com/ConnieZ/JavaExamPrep/commit/fe1ced0757d8beb5e8ab05cf8db49de7013e9c34)
 
 ### Day 53: February 24, 2017, Friday
 
@@ -588,8 +588,8 @@
 
 **Link(s) to work**
 
-1. [Link to latest commit]:(https://github.com/ConnieZ/JavaExamPrep/commit/7941b5a5ce6744ca7284b4e4d9bba704bebe398e)
-2. [Link to freecodecamp profile]:(https://www.freecodecamp.com/conniez)
+1. [Link to latest commit](https://github.com/ConnieZ/JavaExamPrep/commit/7941b5a5ce6744ca7284b4e4d9bba704bebe398e)
+2. [Link to freecodecamp profile](https://www.freecodecamp.com/conniez)
 
 
 ### Day 54: February 25, 2017, Saturday
@@ -600,7 +600,7 @@
 
 **Link(s) to work**
 
-1. [Link to codingame profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
+1. [Link to codingame profile](https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
 
 
 ### Day 55: February 26, 2017, Sunday
@@ -611,8 +611,8 @@
 
 **Link(s) to work**
 
-1. [Link to codingame profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
-2. [Link to contest]:(https://www.codingame.com/contests/ghost-in-the-cell)
+1. [Link to codingame profile](https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
+2. [Link to contest](https://www.codingame.com/contests/ghost-in-the-cell)
 
 
 ### Day 56: February 27, 2017, Monday
@@ -623,8 +623,8 @@
 
 **Link(s) to work**
 
-1. [Link to codingame profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
-2. [Link to contest]:(https://www.codingame.com/contests/ghost-in-the-cell)
+1. [Link to codingame profile](https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
+2. [Link to contest](https://www.codingame.com/contests/ghost-in-the-cell)
 
 
 ### Day 57: February 28, 2017, Tuesday
@@ -635,8 +635,8 @@
 
 **Link(s) to work**
 
-1. [Link to codingame profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
-2. [Link to contest]:(https://www.codingame.com/contests/ghost-in-the-cell)
+1. [Link to codingame profile](https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
+2. [Link to contest](https://www.codingame.com/contests/ghost-in-the-cell)
 
 
 
@@ -648,8 +648,8 @@
 
 **Link(s) to work**
 
-1. [Link to codingame profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
-2. [Link to contest]:(https://www.codingame.com/contests/ghost-in-the-cell)
+1. [Link to codingame profile](https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
+2. [Link to contest](https://www.codingame.com/contests/ghost-in-the-cell)
 
 
 ### Day 59: March 2, 2017, Thursday
@@ -660,9 +660,9 @@
 
 **Link(s) to work**
 
-1. [Commit to java practice repo]:(https://github.com/ConnieZ/JavaExamPrep/commit/37e98950fa64735463c89f6408e013ea04f49d28)
-2. [Link to codingame profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
-3. [Link to contest]:(https://www.codingame.com/contests/ghost-in-the-cell)
+1. [Commit to java practice repo](https://github.com/ConnieZ/JavaExamPrep/commit/37e98950fa64735463c89f6408e013ea04f49d28)
+2. [Link to codingame profile](https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
+3. [Link to contest](https://www.codingame.com/contests/ghost-in-the-cell)
 
 
 ### Day 60: March 3, 2017, Friday
@@ -673,9 +673,9 @@
 
 **Link(s) to work**
 
-1. [Commit Docker stacks]:(https://github.com/ConnieZ/docker-stacks/commit/9291b20f298b622b3cb9719c6314417893c98d84)
-2. [Link to codingame profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
-3. [Link to contest]:(https://www.codingame.com/contests/ghost-in-the-cell)
+1. [Commit Docker stacks](https://github.com/ConnieZ/docker-stacks/commit/9291b20f298b622b3cb9719c6314417893c98d84)
+2. [Link to codingame profile](https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
+3. [Link to contest](https://www.codingame.com/contests/ghost-in-the-cell)
 
 
 ### Day 61: March 4, 2017, Saturday
@@ -686,9 +686,9 @@
 
 **Link(s) to work**
 
-1. [Replay of my algorithm]:(https://www.codingame.com/replay/193645882)
-2. [Link to codingame profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
-3. [Link to contest]:(https://www.codingame.com/contests/ghost-in-the-cell)
+1. [Replay of my algorithm](https://www.codingame.com/replay/193645882)
+2. [Link to codingame profile](https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
+3. [Link to contest](https://www.codingame.com/contests/ghost-in-the-cell)
 
 
 
@@ -700,7 +700,7 @@
 
 **Link(s) to work**
 
-1. [Link to codingame profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
+1. [Link to codingame profile](https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
 
 
 ### Day 63: March 6, 2017, Monday
@@ -711,7 +711,7 @@
 
 **Link(s) to work**
 
-1. [Link to codingame profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
+1. [Link to codingame profile](https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
 
 
 ### Day 64: March 7, 2017, Tuesday
@@ -722,7 +722,7 @@
 
 **Link(s) to work**
 
-1. [Link to codingame profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
+1. [Link to codingame profile](https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
 
 
 ### Day 65: March 8, 2017, Wednesday
@@ -733,7 +733,7 @@
 
 **Link(s) to work**
 
-1. [Link to codingame profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
+1. [Link to codingame profile](https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
 
 
 ### Day 66: March 9, 2017, Thursday
@@ -744,7 +744,7 @@
 
 **Link(s) to work**
 
-1. [Link to codingame profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
+1. [Link to codingame profile](https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
 
 
 ### Day 67: March 10, 2017, Friday
@@ -755,7 +755,7 @@
 
 **Link(s) to work**
 
-1. [Link to codingame profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
+1. [Link to codingame profile](https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
 
 
 ### Day 68: March 11, 2017, Saturday
@@ -766,7 +766,7 @@
 
 **Link(s) to work**
 
-1. [Link to latest commmit]:(https://github.com/ConnieZ/JavaExamPrep/commit/a15cad4fd2ecd8375824142f4829e4ccac6bc764)
+1. [Link to latest commmit](https://github.com/ConnieZ/JavaExamPrep/commit/a15cad4fd2ecd8375824142f4829e4ccac6bc764)
 
 
 
@@ -778,7 +778,7 @@
 
 **Link(s) to work**
 
-1. [Link to latest commmit]:(https://github.com/ConnieZ/JavaExamPrep/commit/b82e199c19a40b5c1122649647d1191f225c6f24)
+1. [Link to latest commmit](https://github.com/ConnieZ/JavaExamPrep/commit/b82e199c19a40b5c1122649647d1191f225c6f24)
 
 
 ### Day 70: March 13, 2017, Monday
@@ -789,7 +789,7 @@
 
 **Link(s) to work**
 
-1. [Link to latest commmit]:(https://github.com/ConnieZ/JavaExamPrep/commit/7cc20bc2b9ab71776ed4dabc30b09242653a9cac)
+1. [Link to latest commmit](https://github.com/ConnieZ/JavaExamPrep/commit/7cc20bc2b9ab71776ed4dabc30b09242653a9cac)
 
 
 ### Day 71: March 14, 2017, Tuesday
@@ -800,7 +800,7 @@
 
 **Link(s) to work**
 
-1. [Link to latest commmit]:(https://github.com/ConnieZ/delay_predictor/commit/b0774ab83369326cf5d5a461e1fe577221d5ea8d)
+1. [Link to latest commmit](https://github.com/ConnieZ/delay_predictor/commit/b0774ab83369326cf5d5a461e1fe577221d5ea8d)
 
 
 ### Day 72: March 15, 2017, Wednesday
@@ -811,7 +811,7 @@
 
 **Link(s) to work**
 
-1. [Link to profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
+1. [Link to profile](https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
 
 
 ### Day 73: March 16, 2017, Thursday
@@ -822,7 +822,7 @@
 
 **Link(s) to work**
 
-1. [Link to latest commmit]:(https://github.com/ConnieZ/JavaExamPrep/commit/06e3b8f2e6a627c2b8f6779236d81702b5488ed5)
+1. [Link to latest commmit](https://github.com/ConnieZ/JavaExamPrep/commit/06e3b8f2e6a627c2b8f6779236d81702b5488ed5)
 
 
 ### Day 74: March 17, 2017, Friday
@@ -833,7 +833,7 @@
 
 **Link(s) to work**
 
-1. [Link to profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
+1. [Link to profile](https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
 
 
 
@@ -845,7 +845,7 @@
 
 **Link(s) to work**
 
-1. [Link to profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
+1. [Link to profile](https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
 
 
 ### Day 76: March 19, 2017, Sunday
@@ -856,7 +856,7 @@
 
 **Link(s) to work**
 
-1. [Link to latest commit]:(https://github.com/ConnieZ/JavaExamPrep/commit/7051030a755244419af6f476f0478ac5001601fe)
+1. [Link to latest commit](https://github.com/ConnieZ/JavaExamPrep/commit/7051030a755244419af6f476f0478ac5001601fe)
 
 
 
@@ -868,7 +868,7 @@
 
 **Link(s) to work**
 
-1. [Link to latest commit]:(https://github.com/ConnieZ/JavaExamPrep/commit/ea14bb0e7700bb02ba68267240409db1f45d73f1)
+1. [Link to latest commit](https://github.com/ConnieZ/JavaExamPrep/commit/ea14bb0e7700bb02ba68267240409db1f45d73f1)
 
 
 ### Day 78: March 21, 2017, Tuesday
@@ -879,4 +879,4 @@
 
 **Link(s) to work**
 
-1. [Link to profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
+1. [Link to profile](https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
