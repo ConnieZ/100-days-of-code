@@ -869,3 +869,14 @@
 **Link(s) to work**
 
 1. [Link to latest commit]:(https://github.com/ConnieZ/JavaExamPrep/commit/ea14bb0e7700bb02ba68267240409db1f45d73f1)
+
+
+### Day 78: March 21, 2017, Tuesday
+
+** Today's Progress**: Learned about Manhattan distance, in other words, Taxicab geometry while solving cabling puzzle on codingame.com.
+
+**Thoughts**: Wow, complex math is fun with a purpose, but still complext.
+
+**Link(s) to work**
+
+1. [Link to profile]:(https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
