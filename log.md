@@ -875,8 +875,20 @@
 
 ** Today's Progress**: Learned about Manhattan distance, in other words, Taxicab geometry while solving cabling puzzle on codingame.com.
 
-**Thoughts**: Wow, complex math is fun with a purpose, but still complext.
+**Thoughts**: Wow, complex math is fun with a purpose, but still complex.
 
 **Link(s) to work**
 
 1. [Link to profile](https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
+
+
+
+### Day 79: March 22, 2017, Wednesday
+
+** Today's Progress**: Reviewed encapsulation, JavaBeans naming conventions and immutability tricks.
+
+**Thoughts**: Passing by reference is super tricky.
+
+**Link(s) to work**
+
+1. [Link to latest commit](https://github.com/ConnieZ/JavaExamPrep/commit/977740423eea95f005a71def2e43650b9a17e9b5)
