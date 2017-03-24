@@ -892,3 +892,14 @@
 **Link(s) to work**
 
 1. [Link to latest commit](https://github.com/ConnieZ/JavaExamPrep/commit/977740423eea95f005a71def2e43650b9a17e9b5)
+
+
+### Day 80: March 23, 2017, Thursday
+
+** Today's Progress**: Worked more on the network cabling puzzle on codingame.com.
+
+**Thoughts**: I got it to pass more test cases, still failing some.
+
+**Link(s) to work**
+
+1. [Link to profile](https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
