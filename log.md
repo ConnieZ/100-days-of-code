@@ -903,3 +903,15 @@
 **Link(s) to work**
 
 1. [Link to profile](https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281)
+
+
+### Day 81: March 24, 2017, Friday
+
+** Today's Progress**: Worked more on the network cabling puzzle on codingame.com, but this time I also learned using lambdas with streams by way of map reduce API. It was very neat to use them.
+
+**Thoughts**: I got it to pass 7 out of 9 test cases, but after submitting the code my completion was only 58%. More work needs to be done.
+
+**Link(s) to work**
+
+1. [Link to profile](https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281) 
+2. [Link to latest commit](https://github.com/ConnieZ/JavaExamPrep/commit/a2855a9fb89438999895e2d4f3fb3e9cd7246f63)
