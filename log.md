@@ -915,3 +915,14 @@
 
 1. [Link to profile](https://www.codingame.com/profile/dc9f2e8fb626b88377fb26426ccdf9be1639281) 
 2. [Link to latest commit](https://github.com/ConnieZ/JavaExamPrep/commit/a2855a9fb89438999895e2d4f3fb3e9cd7246f63)
+
+
+### Day 82: March 25, 2017, Saturday
+
+** Today's Progress**: Backlogging for Saturday - worked on my KitchenMaster app, finalizing code and comments in preparation for deployment to phone.
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. [Link to latest commit](https://github.com/ConnieZ/KitchenMaster/commit/731255c132f4487a2dbaf10aed8a6d26a196527d)
