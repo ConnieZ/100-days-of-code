@@ -926,3 +926,14 @@
 **Link(s) to work**
 
 1. [Link to latest commit](https://github.com/ConnieZ/KitchenMaster/commit/731255c132f4487a2dbaf10aed8a6d26a196527d)
+
+
+### Day 83: March 26, 2017, Sunday
+
+** Today's Progress**: Analyzing stock market losses with a puzzle on codingame.com.
+
+**Thoughts**: 
+
+**Link(s) to work**
+
+1. [Link to puzzle](https://www.codingame.com/training/medium/stock-exchange-losses)
