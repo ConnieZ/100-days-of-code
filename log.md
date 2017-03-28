@@ -937,3 +937,14 @@
 **Link(s) to work**
 
 1. [Link to puzzle](https://www.codingame.com/training/medium/stock-exchange-losses)
+
+
+### Day 84: March 27, 2017, Monday
+
+** Today's Progress**: Practiced writing lambdas some more.
+
+**Thoughts**: Some things still seem tricky
+
+**Link(s) to work**
+
+1. [Link to latest commit](https://github.com/ConnieZ/JavaExamPrep/commit/9f82e707546926cc19529b198d0a2ef686e9484f)
