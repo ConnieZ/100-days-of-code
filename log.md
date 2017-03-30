@@ -959,3 +959,14 @@
 **Link(s) to work**
 
 1. [Link to latest commit](https://github.com/ConnieZ/JavaExamPrep/commit/f96d95ab6642abbd0409b591cd507a77e56feff7)
+
+
+### Day 86: March 29, 2017, Wednesday
+
+** Today's Progress**: Continued review and practice of the weak areas from test in Java on methods and lambdas.
+
+**Thoughts**: Some things still seem tricky
+
+**Link(s) to work**
+
+1. [Link to latest commit](https://github.com/ConnieZ/JavaExamPrep/commit/e6f6fb434dba4c94d5d0b007edd7314e400a81ef)
