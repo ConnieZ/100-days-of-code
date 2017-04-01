@@ -970,3 +970,25 @@
 **Link(s) to work**
 
 1. [Link to latest commit](https://github.com/ConnieZ/JavaExamPrep/commit/e6f6fb434dba4c94d5d0b007edd7314e400a81ef)
+
+
+### Day 87: March 30, 2017, Thursday
+
+** Today's Progress**: Reviewed and practiced class creation and inheritance rules in Java. 
+
+**Thoughts**: Had to code in the airport and on the plane and didn't have the opportunity to commit online on the actual day.
+
+**Link(s) to work**
+
+1. [Link to latest commit](https://github.com/ConnieZ/JavaExamPrep/commit/c0443f85c05a2ec28fcbd5b3dfbe1051e8d3b3f6)
+
+
+### Day 88: March 31, 2017, Friday
+
+** Today's Progress**: Finally got 100% on the network cabling puzzle - only needed to fix the code calculating median from array of values.
+
+**Thoughts**: Very excited
+
+**Link(s) to work**
+
+1. [Link puzzle](https://www.codingame.com/training/medium/network-cabling)
