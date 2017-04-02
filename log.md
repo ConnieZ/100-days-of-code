@@ -992,3 +992,14 @@
 **Link(s) to work**
 
 1. [Link puzzle](https://www.codingame.com/training/medium/network-cabling)
+
+
+### Day 89: April 1, 2017, Saturday
+
+** Today's Progress**: Solved the Stock Exchange puzzle and started exploring breadth first search (BFS) for another puzzle on @codingame.
+
+**Thoughts**: Very excited
+
+**Link(s) to work**
+
+1. [Link puzzle]:(https://www.codingame.com/training/medium/stock-exchange-losses)
