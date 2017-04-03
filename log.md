@@ -996,10 +996,21 @@
 
 ### Day 89: April 1, 2017, Saturday
 
-** Today's Progress**: Solved the Stock Exchange puzzle and started exploring breadth first search (BFS) for another puzzle on @codingame.
+** Today's Progress**: Solved the Stock Exchange puzzle and started exploring breadth first search (BFS) for another puzzle on codingame.
 
 **Thoughts**: Very excited
 
 **Link(s) to work**
 
 1. [Link puzzle]:(https://www.codingame.com/training/medium/stock-exchange-losses)
+
+
+### Day 90: April 2, 2017, Sunday
+
+** Today's Progress**: Worked on another puzzle on codingame.
+
+**Thoughts**: Very excited for the upcoming contest.
+
+**Link(s) to work**
+
+1. [Link puzzle]:(https://www.codingame.com/training/medium/skynet-revolution-episode-1)
