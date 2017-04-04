@@ -1014,3 +1014,15 @@
 **Link(s) to work**
 
 1. [Link puzzle]:(https://www.codingame.com/training/medium/skynet-revolution-episode-1)
+
+
+### Day 91: April 3, 2017, Monday
+
+** Today's Progress**: Learned the Graph data structure thanks to Coursera course, and that allowed me to finish the Skynet puzzle with a 100% score.
+
+**Thoughts**: Done!
+
+**Link(s) to work**
+
+1. [Link puzzle]:(https://www.codingame.com/training/medium/skynet-revolution-episode-1)
+2. [Link to course]:(https://www.coursera.org/learn/advanced-data-structures/home/info)
