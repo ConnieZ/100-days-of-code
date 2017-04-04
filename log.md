@@ -1002,7 +1002,7 @@
 
 **Link(s) to work**
 
-1. [Link puzzle]:(https://www.codingame.com/training/medium/stock-exchange-losses)
+1. [Link puzzle](https://www.codingame.com/training/medium/stock-exchange-losses)
 
 
 ### Day 90: April 2, 2017, Sunday
@@ -1013,7 +1013,7 @@
 
 **Link(s) to work**
 
-1. [Link puzzle]:(https://www.codingame.com/training/medium/skynet-revolution-episode-1)
+1. [Link puzzle](https://www.codingame.com/training/medium/skynet-revolution-episode-1)
 
 
 ### Day 91: April 3, 2017, Monday
@@ -1024,5 +1024,5 @@
 
 **Link(s) to work**
 
-1. [Link puzzle]:(https://www.codingame.com/training/medium/skynet-revolution-episode-1)
-2. [Link to course]:(https://www.coursera.org/learn/advanced-data-structures/home/info)
+1. [Link puzzle](https://www.codingame.com/training/medium/skynet-revolution-episode-1)
+2. [Link to course](https://www.coursera.org/learn/advanced-data-structures/home/info)
