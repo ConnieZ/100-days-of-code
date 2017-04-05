@@ -1026,3 +1026,14 @@
 
 1. [Link puzzle](https://www.codingame.com/training/medium/skynet-revolution-episode-1)
 2. [Link to course](https://www.coursera.org/learn/advanced-data-structures/home/info)
+
+### Day 92: April 4, 2017, Tuesday
+
+** Today's Progress**: In order to solve the second episode of Skynet puzzle I had to rack my brain, trying to write a pathfinding algorithm in Java.
+
+**Thoughts**: What a challenge!
+
+**Link(s) to work**
+
+1. [Link puzzle](https://www.codingame.com/training/hard/skynet-revolution-episode-2)
+
