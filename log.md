@@ -1037,3 +1037,12 @@
 
 1. [Link puzzle](https://www.codingame.com/training/hard/skynet-revolution-episode-2)
 
+### Day 93: April 5, 2017, Wednesday
+
+** Today's Progress**: Still working on learning BFS, DFS, Dijkstra, and Java classes to solve this pathfinding puzzle on codingame.com.
+
+**Thoughts**: What a challenge!
+
+**Link(s) to work**
+1. [Link puzzle](https://www.codingame.com/training/hard/skynet-revolution-episode-2)
+2. [Link to course](https://www.coursera.org/learn/advanced-data-structures)
