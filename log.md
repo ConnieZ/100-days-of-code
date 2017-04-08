@@ -1057,3 +1057,15 @@
 **Link(s) to work**
 1. [Link puzzle](https://www.codingame.com/training/hard/skynet-revolution-episode-2)
 2. [Link to course](https://www.coursera.org/learn/advanced-data-structures)
+
+
+
+### Day 95: April 7, 2017, Friday
+
+** Today's Progress**: I solved the puzzle with 66% success in test cases, but the last 2 I still fail due to the tricky double exit gateways.
+
+**Thoughts**: What a challenge!
+
+**Link(s) to work**
+1. [Link puzzle](https://www.codingame.com/training/hard/skynet-revolution-episode-2)
+
