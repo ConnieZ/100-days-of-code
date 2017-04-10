@@ -1069,3 +1069,13 @@
 **Link(s) to work**
 1. [Link puzzle](https://www.codingame.com/training/hard/skynet-revolution-episode-2)
 
+
+### Days 96-97: April 8-9, 2017, Saturday-Sunday
+
+** Today's Progress**: I spent more time on heuristics for the pathfinding puzzle to make smart moves ahead of time. 
+
+**Thoughts**: It' really hard to make the AI work the way a chess-player would.
+
+**Link(s) to work**
+1. [Link puzzle](https://www.codingame.com/training/hard/skynet-revolution-episode-2)
+
