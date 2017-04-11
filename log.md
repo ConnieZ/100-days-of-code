@@ -1079,3 +1079,12 @@
 **Link(s) to work**
 1. [Link puzzle](https://www.codingame.com/training/hard/skynet-revolution-episode-2)
 
+
+### Days 98: April 10, 2017, Monday
+
+** Today's Progress**: I spent more time on heuristics for the pathfinding puzzle to make smart moves ahead of time, and now my best score is 83%. I was able to pass all IDE tests, but the last 3 validation tests would then fail.
+
+**Thoughts**: It' really hard to make the AI work the way a chess-player would.
+
+**Link(s) to work**
+1. [Link puzzle](https://www.codingame.com/training/hard/skynet-revolution-episode-2)
