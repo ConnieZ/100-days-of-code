@@ -1080,7 +1080,7 @@
 1. [Link puzzle](https://www.codingame.com/training/hard/skynet-revolution-episode-2)
 
 
-### Days 98: April 10, 2017, Monday
+### Day 98: April 10, 2017, Monday
 
 ** Today's Progress**: I spent more time on heuristics for the pathfinding puzzle to make smart moves ahead of time, and now my best score is 83%. I was able to pass all IDE tests, but the last 3 validation tests would then fail.
 
@@ -1088,3 +1088,14 @@
 
 **Link(s) to work**
 1. [Link puzzle](https://www.codingame.com/training/hard/skynet-revolution-episode-2)
+
+
+### Day 99: April 11, 2017, Tuesday
+
+** Today's Progress**: I made my code work in Eclipse for pathfinding algorithm, so now I can run a variety of test cases. Also, I did some live coding at a data science workshop in R with Jupyter Notebooks.
+
+**Thoughts**: Getting closer to the truth...
+
+**Link(s) to work**
+1. [Link puzzle](https://www.codingame.com/training/hard/skynet-revolution-episode-2)
+
