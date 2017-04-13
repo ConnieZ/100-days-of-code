@@ -1099,3 +1099,13 @@
 **Link(s) to work**
 1. [Link puzzle](https://www.codingame.com/training/hard/skynet-revolution-episode-2)
 
+
+### Day 100: April 12, 2017, Wednesday
+
+** Today's Progress**: I ran my algorithm in Eclipse and found out that my algo doesn't find the shortest path... Learning Dijkstra algorithm now to make it happen.
+
+**Thoughts**: Getting closer to the truth...
+
+**Link(s) to work**
+1. [Link puzzle](https://www.codingame.com/training/hard/skynet-revolution-episode-2)
+2. [Link to tutorial](https://www.coursera.org/learn/advanced-data-structures/lecture/2ctyF/core-dijkstras-algorithm)
